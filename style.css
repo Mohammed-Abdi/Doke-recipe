@@ -26,8 +26,13 @@
   .upper {
     height: 250px;
   }
+  .upper .intro {
+    margin-top: -5%;
+    margin-inline: 0;
+    margin-left: 2%;
+  }
   .upper .intros.english {
-    font-size: 32px;
+    font-size: 30px;
   }
 
   .upper .intros.amharic {
